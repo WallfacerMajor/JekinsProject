@@ -1,4 +1,4 @@
-nsfile (Declarative Pipeline)
+Jenkinsfile (Declarative Pipeline)
 pipeline {
     agent { docker 'ruby' }
     stages {
